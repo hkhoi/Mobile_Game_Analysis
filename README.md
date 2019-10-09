@@ -24,7 +24,7 @@ To expose the best combination for strategy games available in the appstore in o
 8. In app purchase vs User Rating by Genre
 9. Age rating vs User Rating
 10. Age rating vs User Rating by 
-11. Developer type (enterprise vs personal)
+
 
 ### Assumptions
 - Games without User Rating are dropped.
@@ -80,3 +80,10 @@ From the left graph we can see a almost Linear incrase of game size except a sud
 The right graph shows the growth of game size per game Genre. It is noted that the Game Size fluctuates fronm year to year, but shows 
 an overall trend of increasing, especially Action Genre which shows a constant growth in the last 5 years
  
+ 
+ ### Price factor 
+ Everyone loves free stuff, which explains the most significant amount of free and cheaper games (< $0.99 ) available in the store
+ ![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/06%20Game%20price%20vs%20user%20rating.PNG)
+ 
+Game with price $0.99 shows a mixed rating from 2-5, while games with price $5.99 & games above $7.99 always shows a positive rating of above 4.0. As for other prices and free games, the user rating given is always above 3.5.
+
