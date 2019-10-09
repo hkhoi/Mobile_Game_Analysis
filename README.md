@@ -49,5 +49,5 @@ Board (25,165)
 Simulation (21,729)
 Trivia (17,091)
 
-
+![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/01%20Size%20vs%20UR.PNG)
 
