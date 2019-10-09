@@ -69,6 +69,6 @@ A strip plot is created to analyse the Game Size vs User Rating grouped by genre
 
 ![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/03%20Game%20Size%20vs%20Genre%20by%20Rating.PNG)
 
-We can easily say that more than half of the games from these 4 genre gets a score of 4 and above, in which the majority focuses on size 400MB and below. With the exception of Adventure which still gets good rating up to 600MB
+We can easily say that more than half of the games from these 4 genre gets a score of 4 and above, in which the majority focuses on size 400MB and below. With the exception of Adventure which still gets good rating up to 600MB. Family (and education) genre can be further looked at by developers to avoid the intense competition to other genres which are dominating the market
 
 ### Original Release date vs User Rating
