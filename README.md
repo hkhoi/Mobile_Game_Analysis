@@ -13,7 +13,7 @@ As a gamer myself, I have motivated myself to analyse an open Kaggle open datase
 To expose the best combination for strategy games available in the appstore in order to get a good user rating (4/5 and above)
 
 ## Investigation Strategy
-1. Genre vs User Rating
+1. Size vs User RAting
 2. Size vs User Rating by Genre
 3. Ori Rel date vs User Rating
 4. Ori Rel date vs User Rating by current version
@@ -23,7 +23,7 @@ To expose the best combination for strategy games available in the appstore in o
 8. In app purchase vs User Rating by Genre
 9. Age rating vs User Rating
 10. Age rating vs User Rating by 
-11. Dev type (enterprise vs personal)
+11. Developer type (enterprise vs personal)
 
 ### Assumptions
 - Games without User Rating are dropped.
@@ -47,3 +47,6 @@ Strategy (26,671)
 Board (25,165)
 Simulation (21,729)
 Trivia (17,091)
+
+
+
