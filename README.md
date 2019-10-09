@@ -16,8 +16,8 @@ To expose the best combination for strategy games available in the appstore in o
 ## Investigation Strategy
 1. Size vs User Rating
 2. Size vs User Rating by Genre
-3. Ori Rel date vs User Rating
-4. Ori Rel date vs User Rating by current version
+3. Original Release date vs User Rating
+4. Original Release date vs User Rating by current version
 5. Language vs User Rating
 6. Language vs User Rating by Genre
 7. In app purchase vs User Rating
@@ -70,3 +70,5 @@ A strip plot is created to analyse the Game Size vs User Rating grouped by genre
 ![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/03%20Game%20Size%20vs%20Genre%20by%20Rating.PNG)
 
 We can easily say that more than half of the games from these 4 genre gets a score of 4 and above, in which the majority focuses on size 400MB and below. With the exception of Adventure which still gets good rating up to 600MB
+
+### Original Release date vs User Rating
