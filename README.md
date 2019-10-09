@@ -60,3 +60,13 @@ In which to achieve score 4 and above it has to be 100MB and above.
 3. A very small portion of games (less than 100 titles) are above 1GB, in which the minimum score for the game is 3-3.5. This might be due to the user sentiment who gives credit to the huge game content and possibly better game graphics.
 We can see that games that lies between 1.2GB and 1.7GB gets score >4.
 
+### Size vs User Rating by Genre
+From the histogram below we can conclude that amount of Puzzle game > Adventure > Action > Family
+(note: the sum of game here is much less than original dataset 17k titles is due to the filter out of no rating/low rating count and less mainstream games genre as mentioned in assumptions section)
+![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/02%20Number%20of%20games%20by%20genre.PNG)
+
+A strip plot is created to analyse the Game Size vs User Rating grouped by genre
+
+![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/03%20Game%20Size%20vs%20Genre%20by%20Rating.PNG)
+
+We can easily say that more than half of the games from these 4 genre gets a score of 4 and above, in which the majority focuses on size 400MB and below. With the exception of Adventure which still gets good rating up to 600MB
