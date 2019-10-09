@@ -71,4 +71,12 @@ A strip plot is created to analyse the Game Size vs User Rating grouped by genre
 
 We can easily say that more than half of the games from these 4 genre gets a score of 4 and above, in which the majority focuses on size 400MB and below. With the exception of Adventure which still gets good rating up to 600MB. Family (and education) genre can be further looked at by developers to avoid the intense competition to other genres which are dominating the market
 
-### Original Release date vs User Rating
+### Release date Analysis
+Over the 12 years, the average Game Size sure has to grow to suit advancing mobile technology as well as accomodate thirstier players.
+ ![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/05%20Game%20Size%20changes%20over%2012%20years.PNG)
+
+From the left graph we can see a almost Linear incrase of game size except a sudden spike from 2013-2014. We can also notice that the error margin has in the error bar- that means the size of game has a bigger range. We can deduce that smaller size games are still relatable but at the same time developers challenged the market with bigger size games (as big as 3.7GB per game)
+
+The right graph shows the growth of game size per game Genre. It is noted that the Game Size fluctuates fronm year to year, but shows 
+an overall trend of increasing, especially Action Genre which shows a constant growth in the last 5 years
+ 
