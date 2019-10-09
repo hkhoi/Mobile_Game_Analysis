@@ -61,9 +61,9 @@ In which to achieve score 4 and above it has to be 100MB and above.
 We can see that games that lies between 1.2GB and 1.7GB gets score >4.
 
 ### Size vs User Rating by Genre
-From the histogram below we can conclude that amount of Puzzle game > Adventure > Action > Family
-(note: the sum of game here is much less than original dataset 17k titles is due to the filter out of no rating/low rating count and less mainstream games genre as mentioned in assumptions section)
-![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/02%20Number%20of%20games%20by%20genre.PNG)
+From the pie chart below we can conclude that amount of Puzzle game > Adventure > Action > Family
+
+![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/04%20Genre%20Pie%20Chart.PNG)
 
 A strip plot is created to analyse the Game Size vs User Rating grouped by genre
 
