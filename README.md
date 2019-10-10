@@ -81,7 +81,7 @@ We can easily say that more than half of the games from these 4 genre gets a sco
 Over the 12 years, the average Game Size sure has to grow to suit advancing mobile technology as well as accomodate thirstier players.
  ![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/05%20Game%20Size%20changes%20over%2012%20years.PNG)
 
-From the left graph we can see a almost Linear incrase of game size except a sudden spike from 2013-2014. We can also notice that the error margin has in the error bar- that means the size of game has a bigger range. We can deduce that smaller size games are still relatable but at the same time developers challenged the market with bigger size games (as big as 3.7GB per game)
+From the left graph we can see a almost Linear increase of game size except a sudden spike from 2013-2014. We can also notice that the error margin has increased since year 2017- that means the size of game has a bigger range. We can deduce that smaller size games are still relatable but at the same time developers challenged the market with bigger size games (as big as 3.7GB per game)
 
 The right graph shows the growth of game size per game Genre. It is noted that the Game Size fluctuates fronm year to year, but shows 
 an overall trend of increasing, especially Action Genre which shows a constant growth in the last 5 years
@@ -101,7 +101,7 @@ The trend of user rating with respect to price becomes better as the game become
 
  ![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/07%20In%20App%20Purchase%20vs%20Game%20Price.PNG)
  
- The pricier the game gets, the higher the lower the In_App_Purchase items are. This is expected as low price and free games needs to sustain with some form of income
+ The pricier the game gets, the higher the lower the In_App_Purchase items are. This is expected as low price and free games needs to sustain with some form of income.
  
   **Inference:<br/>
 -Almost 90% of the developers focuses on games below $1 and places In-App Purchase as their strategy for income<br/>
