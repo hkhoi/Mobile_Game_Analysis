@@ -55,9 +55,12 @@ In which to achieve score 4 and above it has to be 100MB and above.
 We can see that games that lies between 1.2GB and 1.7GB gets score >4.
 
 **Inference: 
--For simpler games, focus on size between 100MB to 150MB of contents
--For more complex games, target between 300MB to 600MB of contents
--Games above 1GB have good tendancy to land above 3.5 score and above, provided sufficient resource available to the developer**
+For simpler games, focus on size between 100MB to 150MB of contents**
+
+**For more complex games, target between 300MB to 600MB of contents**
+
+**Games above 1GB have good tendancy to land above 3.5 score and above, provided sufficient resource available to the developer**
+
 *size in the appstore and actual game size may differ after installation, patching and downloading additional content from game server*
 
 #### Size vs User Rating by Genre
