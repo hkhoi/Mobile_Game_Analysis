@@ -58,9 +58,7 @@ We can see that games that lies between 1.2GB and 1.7GB gets score >4.
  **Inference:<br/>
  -For simpler games, focus on size between 100MB to 150MB of contents<br/>
  -For more complex games, target between 300MB to 600MB of contents<br/>
- -Games above 1GB have good tendancy to land above 3.5 score and above, provided sufficient resource available to the developer**
-
-
+ -Games above 1GB have good tendancy to land above 3.5 score and above, provided sufficient resource available to the developer<br/>**
   *size in the appstore and actual game size may differ after installation, patching and downloading additional content from game server*
 
 #### Size vs User Rating by Genre
@@ -75,9 +73,9 @@ A strip plot is created to analyse the Game Size vs User Rating grouped by genre
 We can easily say that more than half of the games from these 4 genre gets a score of 4 and above, in which the majority focuses on size 400MB and below. With the exception of Adventure which still gets good rating up to 600MB. Family (and education) genre can be further looked at by developers to avoid the intense competition to other genres which are dominating the market
 
 **Inference: <br/>
-Puzzle games are less saturated above 400MB to achieve score 4.0 and above<br/>
-Action & Adventure Genre games are less saturated above 400MB to achieve score 4.0 and above<br/>
-Family/Educational games has less competition overall**
+-Puzzle games are less saturated above 400MB to achieve score 4.0 and above<br/>
+-Action & Adventure Genre games are less saturated above 400MB to achieve score 4.0 and above<br/>
+-Family/Educational games has less competition overall**<br/>
 *size in the appstore and actual game size may differ after installation, patching and downloading additional content from game server*
 
 ### Release date Analysis
@@ -89,8 +87,8 @@ From the left graph we can see a almost Linear incrase of game size except a sud
 The right graph shows the growth of game size per game Genre. It is noted that the Game Size fluctuates fronm year to year, but shows 
 an overall trend of increasing, especially Action Genre which shows a constant growth in the last 5 years
  
- **Inference: **
-**Game size are increasing roughly 50MB per year with Action/Adventure games takes up bigger size and Family/Puzzle less size**
+ **Inference: <br/>
+-Game size are increasing roughly 50MB per year with Action/Adventure games takes up bigger size and Family/Puzzle less size<br/>**
 *Future work: investigation of size trend in more detail*
  
  
@@ -105,9 +103,9 @@ The trend of user rating with respect to price becomes better as the game become
  
  The pricier the game gets, the higher the lower the In_App_Purchase items are. This is expected as low price and free games needs to sustain with some form of income
  
-  **Inference: **
-**Almost 90% of the developers focuses on games below $1 and places In-App Purchase as their strategy for income**
-**Paid Games tend to have better reviews espeicially those above $8.99 that scores 4.0 User Rating**
+  **Inference:<br/>
+-Almost 90% of the developers focuses on games below $1 and places In-App Purchase as their strategy for income<br/>
+-Paid Games tend to have better reviews espeicially those above $8.99 that scores 4.0 User Rating<br/>**
  
  ### Age Rating Factor
 Targetted Age Rating does not reflect the actual gamer's age, but plotting it against User Rating, we can see what does most of the consumer prefers: mature contents above 17+ rating
@@ -118,5 +116,5 @@ However, games rated 17+ makes up for least in the dataset of 2.9%
 
  ![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/08%20Age%20Rating%20Pie.PNG)
  
-  **Inference: **
-**Consumers enjoy more matured content i.e games targetted for 17+ age and above**
+  **Inference: <br/>
+**-Consumers enjoy more matured content i.e games targetted for 17+ age and above**
