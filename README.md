@@ -23,7 +23,7 @@ To expose the best combination for strategy games available in the appstore in o
 
 ### Assumptions
 - Games without User Rating are dropped.
-- Games with less than 200 user rating are dropped. This is to prevent biased rating from developer and/or friends rating.
+- Games with less than 200 user rating are dropped. This is to prevent biased rating from developer and/or their friends' rating.
 - There are about 600 unique game genre in the dataset due to different combination of genre, and sequence of genre. 
   However final genre will be only 4 types, they are:
   Puzzle (include Puzzle/Board games)
