@@ -43,6 +43,8 @@ Board (25,165)
 Simulation (21,729)
 Trivia (17,091)
 
+
+
 ### Size vs User Rating
 It is known mobile game developers has to take mobile phone specifications into account, as bigger games takes more resources and might not run well in lower end mobile phones. However that will limit the amount of content and graphical quality of the game.
 This analysis intened to find out what are the trend of game size available as well as how good are they in terms of user rating.
@@ -61,6 +63,8 @@ We can see that games that lies between 1.2GB and 1.7GB gets score >4.
  -Games above 1GB have good tendancy to land above 3.5 score and above, provided sufficient resource available to the developer<br/>**
   *size in the appstore and actual game size may differ after installation, patching and downloading additional content from game server*
 
+
+
 #### Size vs User Rating by Genre
 From the pie chart below we can conclude that amount of Puzzle game > Adventure > Action > Family
 
@@ -78,6 +82,8 @@ We can easily say that more than half of the games from these 4 genre gets a sco
 -Family/Educational games has less competition overall**<br/>
 *size in the appstore and actual game size may differ after installation, patching and downloading additional content from game server*
 
+
+
 ### Release date Analysis
 Over the 12 years, the average Game Size sure has to grow to suit advancing mobile technology as well as accomodate thirstier players.
  ![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/05%20Game%20Size%20changes%20over%2012%20years.PNG)
@@ -90,6 +96,7 @@ an overall trend of increasing, especially Action Genre which shows a constant g
  **Inference: <br/>
 -Game size are increasing roughly 50MB per year with Action/Adventure games takes up bigger size and Family/Puzzle less size<br/>**
 *Future work: investigation of size trend in more detail*
+ 
  
  
  ### Price factor 
@@ -107,6 +114,7 @@ The trend of user rating with respect to price becomes better as the game become
 -Almost 90% of the developers focuses on games below $1 and places In-App Purchase as their strategy for income<br/>
 -Paid Games tend to have better reviews espeicially those above $8.99 that scores 4.0 User Rating<br/>**
  
+ 
  ### Age Rating Factor
 Targetted Age Rating does not reflect the actual gamer's age, but plotting it against User Rating, we can see what does most of the consumer prefers: mature contents above 17+ rating
 
@@ -117,4 +125,4 @@ However, games rated 17+ makes up for least in the dataset of 2.9%
  ![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/08%20Age%20Rating%20Pie.PNG)
  
   **Inference: <br/>
-**-Consumers enjoy more matured content i.e games targetted for 17+ age and above**
+-Consumers enjoy more matured content i.e games targetted for 17+ age and above**
