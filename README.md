@@ -55,7 +55,7 @@ In which to achieve score 4 and above it has to be 100MB and above.
 We can see that games that lies between 1.2GB and 1.7GB gets score >4.
 
 **Inference: For simpler games, focus on size between 100MB to 150MB of contents
-For more complex games, target between 300MB to 600MB of contents
+For more complex games, target between 300MB to 600MB of contents**
 
 #### Size vs User Rating by Genre
 From the pie chart below we can conclude that amount of Puzzle game > Adventure > Action > Family
