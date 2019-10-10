@@ -26,10 +26,10 @@ To expose the best combination for strategy games available in the appstore in o
 - Games with less than 200 user rating are dropped. This is to prevent biased rating from developer and/or their friends' rating.
 - There are about 600 unique game genre in the dataset due to different combination of genre, and sequence of genre. 
   However final genre will be only 4 types, they are:<br/>
-  Puzzle (include Puzzle/Board games) <br/>
+  Puzzle (include Puzzle/Board games), <br/>
   Action, <br/>
-  Adventure (include Adventure/Role playing games)<br/>
-  Family (include Family/Educational games)<br/>
+  Adventure (include Adventure/Role playing games),<br/>
+  Family (include Family/Educational games).<br/>
   
   This will cover the top 8 game genre based on below report:
   https://www.gamasutra.com/blogs/SimonHill/20141216/232458/Games_rule_the_iTunes_App_Store_Most_popular_genres_revealed.php
