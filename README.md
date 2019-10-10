@@ -82,9 +82,10 @@ an overall trend of increasing, especially Action Genre which shows a constant g
  
  
  ### Price factor 
- Everyone loves free stuff, which explains the most significant amount of free and cheaper games (< $0.99 ) available in the store
+Everyone loves free stuff, which explains the most significant amount of free and cheaper games (< $0.99 ) available in the store
  
  ![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/06%20Game%20price%20vs%20user%20rating.PNG)
  
-Game with price $0.99 shows a mixed rating from 2-5, while games with price $5.99 & games above $7.99 always shows a positive rating of above 4.0. As for other prices and free games, the user rating given is always above 3.5.
+The trend of user rating with respect to price becomes better as the game becomes pricier. We can tell that the game developers are confident and priced their games reasonably. Where games above $8.99 always scores 4.0 and above. While games below $5.99 shows a rating range of 1.5 to 5.
+
 
