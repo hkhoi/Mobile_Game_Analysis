@@ -15,15 +15,9 @@ To expose the best combination for strategy games available in the appstore in o
 
 ## Investigation Strategy
 1. Size vs User Rating
-2. Size vs User Rating by Genre
-3. Original Release date vs User Rating
-4. Original Release date vs User Rating by current version
-5. Language vs User Rating
-6. Language vs User Rating by Genre
-7. In app purchase vs User Rating
-8. In app purchase vs User Rating by Genre
-9. Age rating vs User Rating
-10. Age rating vs User Rating by 
+2. Original Release date vs Size
+3. Game Price and In-App Purchase Factor
+4. Age Rating Factor
 
 
 ### Assumptions
@@ -60,7 +54,7 @@ In which to achieve score 4 and above it has to be 100MB and above.
 3. A very small portion of games (less than 100 titles) are above 1GB, in which the minimum score for the game is 3-3.5. This might be due to the user sentiment who gives credit to the huge game content and possibly better game graphics.
 We can see that games that lies between 1.2GB and 1.7GB gets score >4.
 
-### Size vs User Rating by Genre
+#### Size vs User Rating by Genre
 From the pie chart below we can conclude that amount of Puzzle game > Adventure > Action > Family
 
 ![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/04%20Genre%20Pie%20Chart.PNG)
@@ -88,4 +82,16 @@ Everyone loves free stuff, which explains the most significant amount of free an
  
 The trend of user rating with respect to price becomes better as the game becomes pricier. We can tell that the game developers are confident and priced their games reasonably. Where games above $8.99 always scores 4.0 and above. While games below $5.99 shows a rating range of 1.5 to 5.
 
+ ![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/07%20In%20App%20Purchase%20vs%20Game%20Price.PNG)
+ 
+ The pricier the game gets, the higher the lower the In_App_Purchase items are. This is expected as low price and free games needs to sustain with some form of income
+ 
+ 
+ ### Age Rating Factor
+Targetted Age Rating does not reflect the actual gamer's age, but plotting it against User Rating, we can see what does most of the consumer prefers: mature contents above 17+ rating
 
+ ![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/09%20Age%20Rating%20vs%20User%20Rating.PNG)
+ 
+However, games rated 17+ makes up for least in the dataset of 2.9%
+
+ ![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/08%20Age%20Rating%20Pie.PNG)
