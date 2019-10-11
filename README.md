@@ -32,7 +32,8 @@ To analyse the dataset, we will look at the relationship as below:
 2. Original Release date vs Size (Grouped by Genre)
 3. Game Price and In-App Purchase Factor (Grouped by Genre)
 4. Age Rating Factor
-
+Data are cleaned and then visualized in Jupyter Notebook using python:
+[Code link](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/17K%20Mobile%20Game%20Analysis.ipynb)
 
 ### Assumptions
 - Games without User Rating are dropped.
