@@ -1,7 +1,7 @@
 # Mobile_Game_Analysis
 Mobile gaming makes up nearly 75 percent of global mobile revenue during first half of 2019. A report reveals that gaming made up approximately $29.6 billion of mobile revenue.[[1]](https://gamedaily.biz/article/1020/report-mobile-gaming-makes-up-nearly-75-percent-of-global-mobile-revenue-during-first-half-of-2019)
 
-As a gamer myself, I have motivated myself to analyse an open Kaggle open dataset "17K Mobile Strategy Games" that contains 17,000 unique games & 16 variables to work with.([2]]{https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games) Data handling & Visualization done by using Python in Jupyter Notebook.
+As a gamer myself, I have motivated myself to analyse an open Kaggle open dataset "17K Mobile Strategy Games" that contains 17,000 unique games & 16 variables to work with.[[2]]{https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games) Data handling & Visualization done by using Python in Jupyter Notebook.
 
 An Overall Visualization has been created by Tableau as below:
 
