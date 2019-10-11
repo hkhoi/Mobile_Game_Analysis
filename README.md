@@ -4,6 +4,13 @@ Mobile gaming makes up nearly 75 percent of global mobile revenue during first h
 As a gamer myself, I have motivated myself to analyse an open Kaggle open dataset "17K Mobile Strategy Games" that contains 17,000 unique games & 16 variables to work with. (source: https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games
 Data handling & Visualization done by using Python in Jupyter Notebook.
 
+An Overall Visualization has been created by Tableau as below:
+
+![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/10%20Overall%20Analysis.PNG)
+
+For filtering parameters do visit below link for the **Tableau Dashboard**:
+###https://public.tableau.com/profile/hoihk?fbclid=IwAR0F4YRrr_ziOd63GU7dfRYBrKJXRX0MfgSA2WlGVSzzTC1sLXUD9M6CMSg#!/vizhome/Mobile_Game_Analysis/Dashboard1
+
 # Contents
 1. Objective
 2. Investigation Strategy & assumptions
