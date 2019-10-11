@@ -23,6 +23,12 @@ For filtering parameters do visit below link for the **Tableau Dashboard**:<br/>
 To expose the best combination for strategy games available in the appstore in order to get a good user rating (4/5 and above)
 
 ## Investigation Strategy
+An extract of the dataset is shown as below where the original size is 16column x 17,000 rows.
+
+![alt text](https://github.com/hkhoi/Mobile_Game_Analysis/blob/master/Image/11%20Ori%20dataset.PNG)
+
+To analyse the dataset, we will look at the relationship as below:
+
 1. Size vs User Rating
 2. Original Release date vs Size
 3. Game Price and In-App Purchase Factor
