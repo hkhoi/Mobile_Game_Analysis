@@ -29,9 +29,9 @@ An extract of the dataset is shown as below where the original size is 16column 
 
 To analyse the dataset, we will look at the relationship as below:
 
-1. Size vs User Rating
-2. Original Release date vs Size
-3. Game Price and In-App Purchase Factor
+1. Size vs User Rating (Grouped by Genre)
+2. Original Release date vs Size (Grouped by Genre)
+3. Game Price and In-App Purchase Factor (Grouped by Genre)
 4. Age Rating Factor
 
 
