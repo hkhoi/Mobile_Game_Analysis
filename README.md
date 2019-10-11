@@ -9,7 +9,8 @@ An Overall Visualization has been created by Tableau as below:
 
 For filtering parameters do visit below link for the **Tableau Dashboard**:<br/>
 
-### https://public.tableau.com/profile/hoihk?fbclid=IwAR0F4YRrr_ziOd63GU7dfRYBrKJXRX0MfgSA2WlGVSzzTC1sLXUD9M6CMSg#!/vizhome/Mobile_Game_Analysis/Dashboard1
+### 
+[Tableau Dashboard](https://public.tableau.com/profile/hoihk?fbclid=IwAR0F4YRrr_ziOd63GU7dfRYBrKJXRX0MfgSA2WlGVSzzTC1sLXUD9M6CMSg#!/vizhome/Mobile_Game_Analysis/Dashboard1)
 
 # Contents
 1. Objective
